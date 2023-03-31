@@ -2,7 +2,7 @@ name: backend
 
 on:
   push:
-    baranches
+    branches
       - main
       
 jobs:
